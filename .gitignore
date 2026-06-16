@@ -1,0 +1,5 @@
+*.exe
+*.o
+*.obj
+snapshots.txt
+22101596.txt
